@@ -45,9 +45,10 @@ Este projeto inovador utiliza a potência do Google Gemini para analisar PDFs e 
 
 ## Como usar:
 
-1. Baixe o arquivo ''
-2. Defina sua API Key no código.
-3. Insira a URL do seu PDF e comece a fazer perguntas!
+1. Baixe o arquivo 'Projeto_ImersaoGemini.ipynb'
+2. Import para seu Google Colab
+3. Defina sua API Key no código.
+4. Insira a URL do seu PDF e comece a fazer perguntas!
 
 ## Exemplo:
 
